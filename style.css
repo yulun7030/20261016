@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /* 網頁全域設定：英文優先使用 Changa One，中文自動遞補為 Liu Jian Mao Cao */
+  font-family: 'Changa One', 'Liu Jian Mao Cao', sans-serif;
+}
+
+canvas {
+  display: block;
+}
+
+/* 針對英文專用的 CSS Class */
+.en-font {
+  font-family: 'Changa One', sans-serif;
+}
+
+/* 針對中文專用的 CSS Class */
+.zh-font {
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
