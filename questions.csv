@@ -1,0 +1,16 @@
+question,opt0,opt1,opt2,opt3,answer
+在 p5.js 中，要繪製橢圓形應該使用哪一個函式？,rect(),ellipse(),line(),triangle(),1
+哪一個函式可以設定圖形的填滿顏色？,stroke(),noFill(),fill(),background(),2
+background(0) 會產生什麼效果？,白色背景,黑色背景,紅色背景,透明背景,1
+哪一個函式可以在畫布上繪製直線？,circle(),point(),line(),text(),2
+p5.js 中的 setup() 函式通常會執行幾次？,每一幀一次,只執行一次,滑鼠點擊時執行,鍵盤按下時執行,1
+p5.js 中的 draw() 函式預設每秒執行幾次？,1次,30次,60次,120次,2
+如何改變文字的大小？,textSize(),font(),size(),textWidth(),0
+createCanvas(800, 600) 建立的畫布寬度是多少？,600,800,1400,480000,1
+哪一個變數可以取得滑鼠目前的 X 座標？,mouseX,mouseY,getX(),cursorX,0
+繪製矩形 rect(10, 20, 50, 60) 時，寬度是多少？,10,20,50,60,2
+取消圖形外框線的函式是哪一個？,noStroke(),stroke(0),removeBorder(),clear(),0
+用來繪製圓形的函式為何？,ellipse(),oval(),circle(),round(),2
+random(10, 50) 會產生什麼樣的數值？,10和50,10到50之間的整數,10到50之間的隨機浮點數,只會是10或50,2
+console.log() 的主要功用是什麼？,畫出對話框,在主控台印出訊息除錯,播放音效,儲存檔案,1
+哪一個系統變數代表畫布的寬度？,width,height,canvasWidth,windowWidth,0
